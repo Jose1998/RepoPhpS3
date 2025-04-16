@@ -1,0 +1,19 @@
+/* #region PRUEBA */
+
+.fondo{
+    background-image: url("../images/C3JYGvX5rlayGY8xcC5qJGjYzbJeHPNoXQD0ImxXOpM.jpg"); 
+    /* background: aqua; */
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.colorNavBack{
+    background: rgba(1,16,151,0.744);
+}
+
+.top-nav-collapse{
+    background-color: black;
+}
+
+/* #endregion */
